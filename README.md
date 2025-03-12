@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaseySOC
 - 👀 I’m interested in Cybersecurity and Data Analysis
-- 🌱 I’m currently learning Cybersecurity and Data Analysis 
+- 🌱 I’m currently learning Software Engineering and DevOps Cloud Engineer 
 - 💞️ I’m looking to collaborate on Cybersecurity and Data Analysis 
 - 📫 How to reach me t.me/kasey_okm 
 - 😄 Pronouns: ...
