@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaseySOC
+- 👋 Hi, I’m @Kasey-okm
 - 👀 I’m interested in IT Support, Cybersecurity and Data Analysis
 - 🌱 I’m currently learning Software Development and DevOps Cloud Engineering 
 - 💞️ I’m looking to collaborate on IT Support, Software Development, DevOps, Cybersecurity and Data Analysis 
