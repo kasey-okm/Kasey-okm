@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Software Development and DevOps Cloud Engineering 
 - 💞️ I’m looking to collaborate on IT Support, Software Development, DevOps, Cybersecurity and Data Analysis 
 - 📫 How to reach me t.me/kasey_okm 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I can be very funny
 
 <!---
 KaseySOC/KaseySOC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
